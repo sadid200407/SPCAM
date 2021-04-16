@@ -6,11 +6,15 @@ banner() {
 
 
 printf "\e[0;35m  ▄▄·  ▄▄▄·  ▄ ·. \e[0m\e[0;36m  ▄ .▄ ▄▄▄·  ▄▄· ▄ •▄ ▄▄▄ .▄▄▄  .▄▄ · \e[0m\n"
+
+
 printf "\e[0;50m SPCAM <Only L.G.MD.Sadiduzzaman Sadid Have Permit To Access This.> \e[0m\n"
+
+
 printf "\e[0;35m ·▀▀▀  ▀  ▀ ▀▀  ▀▀▀\e[0m\e[0;36m  ▀▀ · ▀  ▀ ·▀▀▀ ·▀  ▀ ▀▀▀ .▀  ▀ ▀▀▀▀ \e[0m\n"
 printf "\e[1;35m ICT UNIT \e[0m\e[0;36m   CREATED BY SADID               \n"
 
-printf " \e[1;77m v0.8 by L.G. SADID \e[0m \n"
+printf " \e[1;77m v0.1 by L.G. SADID \e[0m \n"
 
 printf "\n"
 
